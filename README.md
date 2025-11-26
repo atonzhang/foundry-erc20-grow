@@ -1,6 +1,6 @@
 # Foundry ERC20
 
-This is a section of the Cyfrin Foundry Solidity Course.
+This is a solidity token project.
 
 - [Foundry ERC20](#foundry-erc20)
 - [Getting Started](#getting-started)
