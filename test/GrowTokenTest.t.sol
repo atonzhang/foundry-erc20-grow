@@ -4,7 +4,7 @@ pragma solidity ^0.8.19;
 
 import {DeployGrowToken} from "../script/DeployGrowToken.s.sol";
 import {GrowToken} from "../src/GrowToken.sol";
-import {Test, console} from "forge-std/Test.sol";
+import {Test} from "forge-std/Test.sol";
 
 interface MintableToken {
     function mint(address, uint256) external;
